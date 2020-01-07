@@ -1,7 +1,1 @@
-BUILD
-.mbed
-BME280
-BMP280
-ELEC350-Hardware
-mbed-os
-TextLCD
+BUILD/
